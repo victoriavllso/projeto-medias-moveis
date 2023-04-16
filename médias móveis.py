@@ -1,4 +1,4 @@
-    opcao = 1
+opcao = 1
 tamanho_da_curta= int(input("digite o tamanho da média curta: "))
 tamanho_da_longa= int(input("digite o tamanho da média longa: "))
 serie= []
